@@ -1,0 +1,24 @@
+{
+  "name": "@backlight-dev/sneeze-lose-weig7.vue3-l525mv69",
+  "version": "0.2.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve t8c9b4vJVVNvoYNLLkSq --open"
+  },
+  "exports": {
+    ".": "./index.js"
+  },
+  "types": "index.d.ts",
+  "dependencies": {
+    "vue": "^3.1.4"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.1",
+    "@divriots/dockit-vue": "^0.0.23",
+    "@vue/test-utils": "^2.0.0-rc.17",
+    "prettier": "^2.3.2"
+  }
+}
